@@ -1,0 +1,22 @@
+.bi-bookmark-plus {
+    height: 18px;
+    position: relative;
+    width: 18px;
+  }
+  
+  .bi-bookmark-plus .vector {
+    height: 18px;
+    left: 2px;
+    position: absolute;
+    top: 0;
+    width: 14px;
+  }
+
+
+  echo "# TGH--Tech" >> README.md
+  git init
+  git add README.md
+  git commit -m "first commit"
+  git branch -M main
+  git remote add origin https://github.com/deepak8321/TGH--Tech.git
+  git push -u origin main

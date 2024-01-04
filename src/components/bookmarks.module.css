@@ -1,0 +1,130 @@
+.macbook-pro {
+  background-color: rgba(255, 255, 255, 1);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.macbook-pro .div {
+  background: linear-gradient(180deg, rgb(94.11, 42.39, 178.5) 5.28%, rgb(21.68, 30.35, 108.38) 100%);
+  background-color: rgba(255, 255, 255, 1);
+  height: 982px;
+  overflow: hidden;
+  position: relative;
+  width: 1512px;
+}
+
+.macbook-pro .overlap-1 {
+  background-color: #d05252;
+  border-radius: 30px;
+  height: 298px;
+  left: 318px;
+  position: absolute;
+  top: 142px;
+  width: 875px;
+}
+
+.macbook-pro .the-human-spirit  .some-people-go-to-1{
+  color: #ffffff;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 91px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 31px;
+}
+
+.macbook-pro .text-wrapper-1 {
+  color: #ffffff;
+  font-family: "Poppins-Bold", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 343px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 233px;
+}
+
+.macbook-pro .overlap-2 {
+  background-color: #d05252;
+  border-radius: 30px;
+  height: 298px;
+  left: 318px;
+  position: absolute;
+  top: 491px;
+  width: 875px;
+}
+
+.macbook-pro .some-people-go-to-2 {
+  color: #ffffff;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 91px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 34px;
+}
+
+.macbook-pro .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Poppins-Bold", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 343px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 236px;
+}
+
+.macbook-pro .overlap-3 {
+  background-color: #d05252;
+  border-radius: 30px;
+  height: 298px;
+  left: 318px;
+  position: absolute;
+  top: 840px;
+  width: 875px;
+}
+
+.macbook-pro .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Poppins-Bold", Helvetica;
+  font-size: 25px;
+  font-weight: 700;
+  left: 343px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 236px;
+}
+
+.macbook-pro .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "Poppins-Bold", Helvetica;
+  font-size: 26px;
+  font-weight: 700;
+  left: 1240px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 23px;
+}
+
+.macbook-pro .text-wrapper-5 {
+  color: #ffffff;
+  font-family: "Poppins-Light", Helvetica;
+  font-size: 26px;
+  font-weight: 300;
+  left: 69px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 23px;
+}
