@@ -16,7 +16,7 @@
   echo "# TGH--Tech" >> README.md
   git init
   git add README.md
-  git commit -m "first commit"
+  git commit -m "Quote-generator-with-using-redux-toolkit"
   git branch -M main
-  git remote add origin https://github.com/deepak8321/TGH--Tech.git
+  git remote add origin https://github.com/deepak8321/TGH-Tech.git
   git push -u origin main
